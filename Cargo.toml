@@ -1,0 +1,10 @@
+[package]
+name = "adhkar-rs-istighfar-wird-tracker"
+version = "1.0.0"
+edition = "2021"
+description = "Daily Wird, Sayyid Al-Istighfar & Salawat Streak Analytics Engine"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "adhkar_rs_istighfar_wird_tracker"
+path = "main.rs"
